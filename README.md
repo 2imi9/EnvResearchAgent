@@ -1,5 +1,5 @@
 
-# RWAgent (ACE Edition)
+# EnvResearchAgent (ACE Edition)
 
 An intelligent research assistant combining **LLMs (OpenAI, Anthropic)** with the **AI2 Climate Emulator (ACE)** for high-resolution weather and climate forecasting.
 Supports hybrid reasoning (language + simulation) and GPU acceleration on systems like the RTX 5090.
